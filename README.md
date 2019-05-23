@@ -13,7 +13,7 @@ boost
 ### Installing
 Installing BGVSR is fairly simple. Follow the following steps:
 ```
-git clone https://github.com/usrYW/BGVSR.git
+git clone https://github.com/usr0001/BGVSR.git
 cd BGVSR
 mkdir build
 cd build
