@@ -1,7 +1,4 @@
-/** 
- Svi is written by Yue Ariel Wu
- UCLA 
-*/
+
 #include <fstream>
 #include <iostream>
 #include <string>
